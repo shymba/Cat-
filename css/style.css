@@ -8,6 +8,10 @@ p {
     line-height: 2;
 }
 
+.hello {
+    color: #0b6d3f;
+}
+
 .wrapper {
     width: 1200px;
     margin: 0 auto;
